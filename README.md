@@ -1,5 +1,5 @@
 # Spark Study Repository
-![Spark Logo](https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg)
+![Spark Logo](https://www.databricks.com/wp-content/uploads/2019/02/spark-white.png)
 
 Welcome to the Spark-Study-Repository, a comprehensive collection of study materials and resources for learning Apache Spark. This repository is designed to help  master the skills needed to work with Spark, a unified analytics engine for large-scale data processing.
 
